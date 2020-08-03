@@ -11,7 +11,6 @@
 extern tokendb db;
 
 extern "C" {
-#include "enc.h"
 #include "totp.h"
 #include <sodium.h>
 #include <liboath/oath.h>
